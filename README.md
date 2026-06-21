@@ -15,5 +15,5 @@
 - Army Information Portal
 - Fitness Tracker App (in progress)
 
-🔗 LeetCode: [leetcode.com/u/nIuvty8QNY/]
+🔗 LeetCode: [https://leetcode.com/u/nIuvty8QNY/]
 🔗 LinkedIn: [https://www.linkedin.com/in/vaishnavi-vaddieneni-266407377/]
